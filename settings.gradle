@@ -1,0 +1,1 @@
+include ':app', ':paycomponent', ':paycomponent_kotlin', ':instantapp', ':app_kotlin', ':httpcomponent', ':httpcomponent_kotlin', ':widgetcomponent', ':widgetcomponent_kotlin'
